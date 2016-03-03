@@ -10,7 +10,7 @@ namespace D20160303_git
     {
         //佳芸這裡~
         public void main() {
-            Console.WriteLine("123");
+            Console.WriteLine("456");
             Console.ReadKey();
         }
     }
