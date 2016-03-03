@@ -8,6 +8,7 @@ namespace D20160303_git
 {
     class Class1
     {
+        //佳芸這裡~
         public void main() {
             Console.WriteLine("123");
             Console.ReadKey();
